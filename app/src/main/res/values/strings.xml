@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DramaTV</string>
+    <string name="drama_tv_most_popular">Most popular</string>
+    <string name="read_more">Read More</string>
+    <string name="read_less">Read Less</string>
+    <string name="u2022">•</string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="search_drama_show">Search Drama Show</string>
+    <string name="know_your_drama_details">Know about favourite Drama</string>
+</resources>
